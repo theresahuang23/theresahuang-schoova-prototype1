@@ -1,3 +1,5 @@
+## Schoova Prototype 1 (successful)
+
 # Schoova Dashboard & Recommendations
 
 A modern, accessible React web application showcasing the Dashboard & Recommendations feature for Schoova—an accountability tool for young adults that integrates automated scheduling with social challenges to boost engagement and long-term retention.
